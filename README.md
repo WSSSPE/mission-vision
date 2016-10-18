@@ -24,7 +24,7 @@ Sustainable software has the capacity to endure such that it will continue to be
 The research software lifcycle includes:
 
 * acquiring and assembling resources (including funding and people) into teams and communities
-* software development
-* software use
-* recognition
-* software maintenance
+* developing software
+* using software
+* recognizing contributions to and of software
+* maintaining software
